@@ -12,3 +12,10 @@ fdkjdhfksdjhfkjdhsf
 
 
 ### Nagłówek 2.1
+
+Podstawowym typem jest `string` oraz `int`
+
+```csharp
+Console.WrtiteLine("podaj imię");
+imie = Console.ReadLine();
+```
