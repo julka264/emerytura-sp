@@ -16,6 +16,6 @@ fdkjdhfksdjhfkjdhsf
 Podstawowym typem jest `string` oraz `int`
 
 ```csharp
-Console.WrtiteLine("podaj imię");
+Console.WrtiteLine("podaj imie");
 imie = Console.ReadLine();
 ```
