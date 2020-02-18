@@ -19,3 +19,4 @@ Podstawowym typem jest `string` oraz `int`
 Console.WrtiteLine("podaj imie");
 imie = Console.ReadLine();
 ```
+Strona [WSEI](http://wsei.edu.pl)
